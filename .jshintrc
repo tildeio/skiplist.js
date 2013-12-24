@@ -1,0 +1,9 @@
+{
+  "esnext":        true,
+  "boss":          true,
+  "unused":        true,
+  "undef":         true,
+
+  "maxlen":        100,
+  "maxcomplexity": 20
+}
